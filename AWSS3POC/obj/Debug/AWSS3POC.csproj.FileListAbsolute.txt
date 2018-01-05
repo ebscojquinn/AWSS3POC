@@ -1,0 +1,12 @@
+c:\users\jquinn\documents\visual studio 2015\Projects\AWSS3POC\AWSS3POC\bin\Debug\AWSS3POC.exe.config
+c:\users\jquinn\documents\visual studio 2015\Projects\AWSS3POC\AWSS3POC\bin\Debug\AWSS3POC.exe
+c:\users\jquinn\documents\visual studio 2015\Projects\AWSS3POC\AWSS3POC\bin\Debug\AWSS3POC.pdb
+c:\users\jquinn\documents\visual studio 2015\Projects\AWSS3POC\AWSS3POC\bin\Debug\AWSSDK.Core.dll
+c:\users\jquinn\documents\visual studio 2015\Projects\AWSS3POC\AWSS3POC\bin\Debug\AWSSDK.S3.dll
+c:\users\jquinn\documents\visual studio 2015\Projects\AWSS3POC\AWSS3POC\bin\Debug\AWSSDK.Core.pdb
+c:\users\jquinn\documents\visual studio 2015\Projects\AWSS3POC\AWSS3POC\bin\Debug\AWSSDK.Core.xml
+c:\users\jquinn\documents\visual studio 2015\Projects\AWSS3POC\AWSS3POC\bin\Debug\AWSSDK.S3.pdb
+c:\users\jquinn\documents\visual studio 2015\Projects\AWSS3POC\AWSS3POC\bin\Debug\AWSSDK.S3.xml
+c:\users\jquinn\documents\visual studio 2015\Projects\AWSS3POC\AWSS3POC\obj\Debug\AWSS3POC.exe
+c:\users\jquinn\documents\visual studio 2015\Projects\AWSS3POC\AWSS3POC\obj\Debug\AWSS3POC.pdb
+c:\users\jquinn\documents\visual studio 2015\Projects\AWSS3POC\AWSS3POC\obj\Debug\AWSS3POC.csprojResolveAssemblyReference.cache
